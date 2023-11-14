@@ -1,0 +1,15 @@
+.disflex{
+    display: flex;
+}
+
+.dispblock1 {
+
+    display: block;
+    text-align: right;
+    margin: 5px 0;
+}
+.dispblock {
+    display: block;
+    margin: 10px 0;
+}
+
